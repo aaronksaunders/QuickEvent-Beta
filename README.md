@@ -1,9 +1,11 @@
-# BETA - BETA - BETA - BETA - BETA - BETA - BETA - BETA -
+# BETA - BETA - BETA - BETA - BETA - BETA - BETA - BETA 
 # quickevent Module 
 
 ## Description
 
 This Module Allows you to create calendar events in the default user calendar, and displays UI for editing the calendar event
+
+This module WILL be released in the Appcelerator Marketplace, at that time, applications using this module will no longer work,meaning the Beta period will have ended
 
 ## Accessing the quickevent Module
 
